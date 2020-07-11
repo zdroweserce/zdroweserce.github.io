@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-06-09_1933",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1140,7 +1140,8 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "RODO",
-        "order": 2
+        "order": 2,
+        "header_custom": "<meta name=\"robots\" content=\"noindex\">"
       },
       "components": [
         {
@@ -1593,7 +1594,8 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Cookies",
-        "order": 1
+        "order": 1,
+        "header_custom": ""
       },
       "components": [
         {
