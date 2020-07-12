@@ -14,7 +14,7 @@
         "dangerColor": "#232323",
         "mainFont": "Rubik",
         "display1Font": "Rubik",
-        "display1Size": "3.7",
+        "display1Size": "4",
         "display2Font": "Rubik",
         "display2Size": "2.2",
         "display5Font": "Rubik",
@@ -38,7 +38,7 @@
         "url": "https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i"
       }
     ],
-    "uniqCompNum": 51,
+    "uniqCompNum": 32,
     "versionPublish": "4.12.3",
     "imageResize": true,
     "screenshot": "screenshot.png",
@@ -68,7 +68,7 @@
     "htmltag": "<html>",
     "witsec-language": false,
     "witsec-white-label": false,
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-172175672-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-172175672-1');\n</script>\n"
   },
   "pages": {
@@ -76,8 +76,8 @@
       "settings": {
         "main": true,
         "title": "Choroby serca i układu krążenia. Jak pozbyć się głównej przyczyny w 120 dni.",
-        "meta_descr": "Choroby serca i układu krążenia. Poznaj prosty i skuteczny sposób jak możesz  pozbyć się głównej przyczyny w 120 dni. Potwierdzone wynikiem testu krwi niezależnego laboratorium",
-        "header_custom": "<h1>co na choroby serca i układu krążenia</h1>\n<h2>miażdżyca zawał jak zapobiegać i być zdrowym</h2>",
+        "meta_descr": "Choroby serca i układu krążenia. Prosty i skuteczny sposób jak  pozbyć się głównej przyczyny w 120 dni. Potwierdzone wynikiem testu krwi niezależnego laboratorium",
+        "header_custom": "",
         "footer_custom": "",
         "html_before": ""
       },
@@ -1140,7 +1140,8 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "RODO",
-        "order": 3
+        "order": 2,
+        "header_custom": "<meta name=\"robots\" content=\"noindex\">"
       },
       "components": [
         {
@@ -1593,7 +1594,8 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Cookies",
-        "order": 2
+        "order": 1,
+        "header_custom": ""
       },
       "components": [
         {
