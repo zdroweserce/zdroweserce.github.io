@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-06-09_1933",
+    "name": "zdroweserce",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -66,8 +66,8 @@
       "text": "Kontynując akceptujesz warunki użytkowania<a href='page1.html'>Warunki użytkowania</a> and <a href='page2.html'>Polityka Prywatności</a>."
     },
     "htmltag": "<html>",
-    "witsec-language": false,
-    "witsec-white-label": false,
+    "witsec-language": "pl",
+    "witsec-white-label": true,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-172175672-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-172175672-1');\n</script>\n"
   },
