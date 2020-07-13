@@ -77,7 +77,7 @@
         "main": true,
         "title": "Choroby serca i układu krążenia. Jak pozbyć się głównej przyczyny w 120 dni.",
         "meta_descr": "Choroby serca i układu krążenia. Prosty i skuteczny sposób jak  pozbyć się głównej przyczyny w 120 dni. Potwierdzone wynikiem testu krwi niezależnego laboratorium",
-        "header_custom": "",
+        "header_custom": "<link rel=”canonical” href=”https://zdroweserce.github.io” />",
         "footer_custom": "",
         "html_before": ""
       },
